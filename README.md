@@ -2,6 +2,8 @@
 
 Welcome to my repository. I am passionate about technology and enjoy working on projects that allow me to learn and grow as a developer. Here you will find a variety of projects I have been working on.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-jo-r)
+
 ## Technologies I use
 
 - ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white) **ROS (Robot Operating System)**
