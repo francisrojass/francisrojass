@@ -11,7 +11,7 @@ Welcome to my repository. I am passionate about technology and enjoy working on 
   I work at ARUS as a member of the Driverless team
 </div>
 <div align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5e45d3a8e509f61738454469/81e0d83b-0fa6-48d0-801b-1f0c1515d786/logo+arus+cuadrado+web.png" alt="Logo" width="50px" a = "https://www.arusteam.com">
+  <img src="https://images.squarespace-cdn.com/content/v1/5e45d3a8e509f61738454469/81e0d83b-0fa6-48d0-801b-1f0c1515d786/logo+arus+cuadrado+web.png" alt="Logo" width="50px">(https://www.arusteam.com)
 </div>
 
 ## Technologies I use
