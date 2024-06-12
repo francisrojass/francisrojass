@@ -1,4 +1,4 @@
-# Hello Everyone! ![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# Hello Everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 Welcome to my repository. I am passionate about technology and enjoy working on projects that allow me to learn and grow as a developer. Here you will find a variety of projects I have been working on.
 
