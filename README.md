@@ -13,7 +13,7 @@ Welcome to my repository. I am passionate about technology and enjoy working on 
 - ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white) **ROS (Robot Operating System)**
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) **C**
 - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) **C++**
-- ![Java]([https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)) **Java**
+- ![Java](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg) **Java**
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**
 
 I hope you find the projects and resources in this repository useful. Feel free to contribute or reach out if you have any questions or suggestions!
