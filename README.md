@@ -16,6 +16,12 @@ Welcome to my repository. I am passionate about technology and enjoy working on 
 - ![Java](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg) **Java**
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**
 
+<ul style="list-style-type:none;">
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" width="30px"></li>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/adfcb828580b7c3f3d1681c1a926c2e1113ac0ac/icons/c/c-plain.svg" width="30px"></li>
+    <!-- Add more icons here -->
+</ul>
+
 I hope you find the projects and resources in this repository useful. Feel free to contribute or reach out if you have any questions or suggestions!
 
 Thank you for visiting!
