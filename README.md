@@ -10,7 +10,7 @@ Welcome to my repository. I am passionate about technology and enjoy working on 
 
 ## Technologies I use
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/adfcb828580b7c3f3d1681c1a926c2e1113ac0ac/icons/c/c-plain.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original-wordmark.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/adfcb828580b7c3f3d1681c1a926c2e1113ac0ac/icons/c/c-plain.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original-wordmark.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="50px"> 
 
 I hope you find the projects and resources in this repository useful. Feel free to contribute or reach out if you have any questions or suggestions!
 
