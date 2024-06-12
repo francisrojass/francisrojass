@@ -10,15 +10,12 @@ Welcome to my repository. I am passionate about technology and enjoy working on 
 
 ## Technologies I use
 
-- ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white) **ROS (Robot Operating System)**
-- ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) **C**
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) **C++**
-- ![Java](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg) **Java**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**
-
 <ul style="list-style-type:none;">
-    <li><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" width="30px"></li>
-    <li><img src="https://raw.githubusercontent.com/devicons/devicon/adfcb828580b7c3f3d1681c1a926c2e1113ac0ac/icons/c/c-plain.svg" width="30px"></li>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" width="50px"></li>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/adfcb828580b7c3f3d1681c1a926c2e1113ac0ac/icons/c/c-plain.svg" width="50px"></li>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original-wordmark.svg" width="50px"></li>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="50px"></li>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50px"></li>
     <!-- Add more icons here -->
 </ul>
 
